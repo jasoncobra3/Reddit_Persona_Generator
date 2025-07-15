@@ -1,0 +1,5 @@
+praw
+langchain
+langchain-community
+langchain-groq
+python-dotenv
