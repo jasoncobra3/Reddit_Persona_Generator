@@ -39,7 +39,8 @@ The persona must include:
 - Behavior patterns
 - Inferred interests or profession
 - Personality bars (e.g., Introvert ██████)
-- 1–2 direct quotes with the Reddit comment/post 
+- Include 1–2 direct quotes with the Reddit comment/post links (as citations)... Cite specific comments or posts wherever possible. 
+- For each key personality trait, behavior, or motivation you identify, include a specific quote or phrase and cite the Reddit post or comment title it came from. Format this under each trait directly, not as a separate quotes section
 - A brief summary of the user's online presence
 - Add a single line summary of the user for personality profiling
 

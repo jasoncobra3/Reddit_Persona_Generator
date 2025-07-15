@@ -1,55 +1,42 @@
-### User Persona: kojied
-
-#### Name
-kojied
+### User Persona: **Kojied**
 
 #### Personality Traits
-- Strategic
-- Analytical
-- Observant
-- Reflective
-- Introspective
-- Enjoying music and dancing
-- Humorous
-- Transient
+- **Analytical** - "I do too but I rarely finish a game haha. Too little late game content" (Comment)
+- **Strategic** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border." (Comment)
+- **Reflective** - "Am I not the same as they are, just at a longer time horizon?" (Post: "I feel violated by intern season")
+- **Observant** - "That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt." (Comment)
+- **Empathetic** - "Sorry to hear that man, in the future you may want to have multiple granaries..." (Comment)
 
 #### Goals and Motivations
-- Efficient resource management in games
-- Maintaining character consistency in media
-- Exploring the nuances of different life stages and experiences
-- Understanding diverse perspectives on social issues
-- Seeking better life opportunities
+- **Efficiency** - "imo trading raw materials is easier than trading crafted goods in the current build." (Comment)
+- **Consistency** - "Incredible stuff! How did you maintain character consistency?" (Comment)
+- **Understanding of Systems** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." (Comment)
+- **Cultural Awareness** - "They might only be here for three months, but I've only been here for three years as well." (Post: "I feel violated by intern season")
 
 #### Frustrations
-- Lack of late-game content in games
-- Feeling out of place in certain social settings
-- Inconsistencies in decision-making processes (e.g., refereeing in sports)
-- Potential exploitation of H1B visa holders
+- **Lack of Late-Game Content** - "Too little late game content" (Comment)
+- **Unexpected Challenges** - "I didn’t notice how demanding [tier 3 upgrade] was going to be" (Comment)
+- **Feeling Out of Place** - "I felt like I was at a college basement party" (Post: "I feel violated by intern season")
 
 #### Behavior Patterns
-- Actively engages in discussions about games and strategies
-- Shares personal experiences and reflections on social interactions
-- Seeks and offers advice on various topics including gaming, social situations, and societal issues
-- Values consistency and efficiency in his endeavors
+- **Tends to Avoid Multiple Management Tasks** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once." (Comment)
+- **Prefers Raw Material Trading** - "imo trading raw materials is easier than trading crafted goods in the current build." (Comment)
+- **Thinks Critically About Game Mechanics** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." (Comment)
 
 #### Inferred Interests or Profession
-Kojied is likely interested in gaming, particularly strategy and resource management games. He enjoys reflecting on social dynamics and cultural experiences, suggesting a background in a field that involves interpersonal interaction or cultural analysis. He may also have a background in or interest in law, possibly as an H1B visa holder.
+- **Gaming Enthusiast** - Multiple comments related to gaming and game strategies.
+- **Strategic Thinker** - Comments on city building and resource management in games.
+- **Cultural Observer** - Reflections on social dynamics and cultural settings.
 
 #### Personality Bars
-- Introvert ██████
-- Analytical ██████
-- Extrovert ███
-- Emotional ███
-
-#### Direct Quotes
-1. **"I feel violated by intern season - There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the bar and all of a sudden I felt like I was at a college basement party."**
-   - This quote highlights kojied's observational skills and his reflection on feeling out of place in a social setting.
-
-2. **"You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)."**
-   - This quote demonstrates his strategic approach to resource management in games.
+- **Introvert** ██████
+- **Analytical** ██████
+- **Strategic** ██████
+- **Empathetic** ██████
+- **Reflective** ██████
 
 #### Summary of Online Presence
-Kojied is an active participant in discussions about game strategies, particularly in resource management and character consistency. He also shares personal anecdotes and reflections on social and cultural experiences, often with a humorous or introspective tone. His posts and comments indicate a thoughtful and analytical mind, with a keen interest in understanding different perspectives and dynamics.
+Kojied is a thoughtful and strategic individual who enjoys analytical and strategic activities, particularly in gaming. They are observant and empathetic, often offering practical advice and reflections on social situations. Their online presence is marked by a desire to understand and optimize systems, whether in games or real-life settings.
 
 #### Personality Profiling Summary
-Kojied is a strategic and analytical thinker who enjoys reflecting on social interactions and cultural dynamics. He is observant and introspective, with a keen interest in game strategies and resource management. His posts and comments reflect a thoughtful and often humorous approach to a variety of topics, making him a valuable contributor to online discussions.
+Kojied is a reflective, empathetic, and strategic individual who values efficiency and consistency, with a keen interest in gaming and cultural observations.
