@@ -1,42 +1,42 @@
-### User Persona: **Kojied**
+### User Persona: kojied
 
-#### Personality Traits
-- **Analytical** - "I do too but I rarely finish a game haha. Too little late game content" (Comment)
-- **Strategic** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border." (Comment)
-- **Reflective** - "Am I not the same as they are, just at a longer time horizon?" (Post: "I feel violated by intern season")
-- **Observant** - "That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt." (Comment)
-- **Empathetic** - "Sorry to hear that man, in the future you may want to have multiple granaries..." (Comment)
+**Name:** kojied
 
-#### Goals and Motivations
-- **Efficiency** - "imo trading raw materials is easier than trading crafted goods in the current build." (Comment)
-- **Consistency** - "Incredible stuff! How did you maintain character consistency?" (Comment)
-- **Understanding of Systems** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." (Comment)
-- **Cultural Awareness** - "They might only be here for three months, but I've only been here for three years as well." (Post: "I feel violated by intern season")
+**Personality Traits:**
+- **Organized** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." [Comment]
+- **Reflective** - "Am I not the same as they are, just at a longer time horizon?" [Post]
+- **Critical Thinker** - "The exact opposite of this is plate armor. It takes forever to build, requires three points, and needs eight iron slabs to make it. It’s cheaper to just export the ore, and since it’s a low quantity trade, it’s hard to stick multiple trade posts with it" [Comment]
+- **Pragmatic** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once." [Comment]
+- **Observant** - "I feel violated by intern season" [Post]
 
-#### Frustrations
-- **Lack of Late-Game Content** - "Too little late game content" (Comment)
-- **Unexpected Challenges** - "I didn’t notice how demanding [tier 3 upgrade] was going to be" (Comment)
-- **Feeling Out of Place** - "I felt like I was at a college basement party" (Post: "I feel violated by intern season")
+**Goals and Motivations:**
+- **Efficiency** - "I do too but I rarely finish a game haha. Too little late game content" [Comment]
+- **Consistency** - "Incredible stuff! How did you maintain character consistency?" [Comment]
+- **Adaptability** - "As a fact, there are bunch of people have done this for generations where their parents and their grandparents and their grandparents all met in New York, and they all decided to live somewhere in the broader region" [Post]
 
-#### Behavior Patterns
-- **Tends to Avoid Multiple Management Tasks** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once." (Comment)
-- **Prefers Raw Material Trading** - "imo trading raw materials is easier than trading crafted goods in the current build." (Comment)
-- **Thinks Critically About Game Mechanics** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." (Comment)
+**Frustrations:**
+- **Lack of Control** - "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." [Comment]
+- **Unfairness** - "What needs to happen for the league to review the inconsistencies of the refs?" [Post]
+- **Feeling Out of Place** - "I felt violated by intern season" [Post]
 
-#### Inferred Interests or Profession
-- **Gaming Enthusiast** - Multiple comments related to gaming and game strategies.
-- **Strategic Thinker** - Comments on city building and resource management in games.
-- **Cultural Observer** - Reflections on social dynamics and cultural settings.
+**Behavior Patterns:**
+- **Comparative Analysis** - "The exact opposite of this is plate armor. It takes forever to build, requires three points, and needs eight iron slabs to make it. It’s cheaper to just export the ore, and since it’s a low quantity trade, it’s hard to stick multiple trade posts with it" [Comment]
+- **Resource Allocation** - "That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt." [Comment]
+- **Strategic Planning** - "I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border. That way you're basically managing three cities at once" [Comment]
 
-#### Personality Bars
-- **Introvert** ██████
-- **Analytical** ██████
-- **Strategic** ██████
-- **Empathetic** ██████
-- **Reflective** ██████
+**Inferred Interests or Profession:**
+- **Gaming** - "I do too but I rarely finish a game haha. Too little late game content" [Comment]
+- **Economics/Management** - "I do too but I rarely finish a game haha. Too little late game content" [Comment]
+- **Observational/Reflective** - "I feel violated by intern season" [Post]
 
-#### Summary of Online Presence
-Kojied is a thoughtful and strategic individual who enjoys analytical and strategic activities, particularly in gaming. They are observant and empathetic, often offering practical advice and reflections on social situations. Their online presence is marked by a desire to understand and optimize systems, whether in games or real-life settings.
+**Personality Bars:**
+- **Introvert ██████**
+- **Critical Thinking ██████**
+- **Reflective ██████**
+- **Pragmatic ██████**
 
-#### Personality Profiling Summary
-Kojied is a reflective, empathetic, and strategic individual who values efficiency and consistency, with a keen interest in gaming and cultural observations.
+**Summary of Online Presence:**
+Kojied is a reflective, organized, and pragmatic individual who enjoys engaging in detailed analysis and strategic planning. They are observant of their environment and tend to think critically about the systems and structures around them. They have a keen eye for efficiency and resource allocation, often looking for ways to optimize their actions. Kojied is also deeply reflective, often questioning their place in the world and the perceptions of others.
+
+**Summary for Personality Profiling:**
+Kojied is a thoughtful, strategic, and critical thinker who values efficiency, organization, and adaptability. They are deeply reflective and often question their environment and the fairness of systems around them. Their pragmatic nature drives them to seek the best solutions and optimize their resources.
