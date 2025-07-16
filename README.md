@@ -17,12 +17,10 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 ### 📸 Screenshots
 
 
-#### 🧠 AI Persona Generator UI
-![UI](Assets/UI.png)
 
-#### 📄 Example Output
-![Output](Assets/output.png)
-
+| 🧠 AI Persona Generator UI | 📄 Example Output|
+|---------------|------------------|
+| ![UI](Assets/UI.png) | ![Output](Assets/output.png)|
 
 ---
 
@@ -100,7 +98,7 @@ Create a `.env` file in the root folder with:
 - 📝 Output will be saved in `outputs/<username>.txt`
 
 ---
-## 🚀 Run Streamlit UI
+## 🚀 Run Streamlit App
 1. **Run the Script in Terminal**
    ```bash
    streamlit run app.py
