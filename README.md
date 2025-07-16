@@ -14,6 +14,17 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 
 ---
 
+### 📸 Screenshots
+
+#### 🧠 AI Persona Generator UI
+![UI](<img width="1275" height="627" alt="image" src="https://github.com/user-attachments/assets/1c97159c-757f-4256-836e-378fb9768e1f" />)
+
+#### 📄 Example Persona Output
+![Output](<img width="1273" height="617" alt="image" src="https://github.com/user-attachments/assets/8591a3ad-eec5-4a24-913b-01b1f5c8b175" />
+)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Purpose         | Technology Used         |
