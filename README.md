@@ -131,7 +131,6 @@ Create a `.env` file in the root folder with:
 
 ## 🌟 Future Improvements
 - Generate persona slides or images using `python-pptx`
-- Add Streamlit web UI for user input
 - Visualize traits with charts or graphs
 
 ---
