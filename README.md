@@ -16,12 +16,13 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 
 ### 📸 Screenshots
 
-#### 🧠 AI Persona Generator UI
-![UI](<img width="1275" height="627" alt="image" src="https://github.com/user-attachments/assets/1c97159c-757f-4256-836e-378fb9768e1f" />)
 
-#### 📄 Example Persona Output
-![Output](<img width="1273" height="617" alt="image" src="https://github.com/user-attachments/assets/8591a3ad-eec5-4a24-913b-01b1f5c8b175" />
-)
+#### 🧠 AI Persona Generator UI
+![UI](Assets/UI.png)
+
+#### 📄 Example Output
+![Output](Assets/output.png)
+
 
 ---
 
@@ -33,6 +34,7 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 | LLM pipeline    | LangChain + Groq (Mixtral) |
 | Secrets mgmt    | python-dotenv            |
 | Output          | `.txt` user persona files |
+| User Interface  |Streamlit  |
 | Future (optional) | `python-pptx` for visual persona |
 
 ---
@@ -97,6 +99,11 @@ Create a `.env` file in the root folder with:
 - 👉 Enter a Reddit profile URL when prompted.
 - 📝 Output will be saved in `outputs/<username>.txt`
 
+---
+## 🚀 Run Streamlit UI
+1. **Run the Script in Terminal**
+   ```bash
+   streamlit run app.py
 ---
 
 ## 📄 Sample Output
