@@ -14,11 +14,11 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 
 ---
 
-### 📸 Screenshots
+## 📸 Screenshots
 
 
 
-| 🧠 AI Persona Generator UI | 📄 Example Output|
+| 🧠 AI Persona Generator UI| 📄 Example Output|
 |---------------|------------------|
 | ![UI](Assets/UI.png) | ![Output](Assets/output.png)|
 
