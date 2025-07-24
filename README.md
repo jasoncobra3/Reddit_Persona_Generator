@@ -75,7 +75,7 @@ Create a `.env` file in the root folder with:
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/your-username/beyondchats_ai_intern.git
+   git clone https://github.com/jasoncobra3/Reddit_Persona_Generator.git
    cd beyondchats_ai_intern
 
 2. **Create Virtual Environment**
