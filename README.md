@@ -114,7 +114,7 @@ Create a `.env` file in the root folder with:
 - Socially Aware
 
 #### Goals
-- Strategic resource management
+- Strategic resource management.
 - Creative consistency
 
 #### Direct Quotes
