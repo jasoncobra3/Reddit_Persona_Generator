@@ -32,7 +32,7 @@ This project is a Generative AI-powered Reddit User Persona Generator that analy
 | LLM pipeline    | LangChain + Groq (Mixtral) |
 | Secrets mgmt    | python-dotenv            |
 | Output          | `.txt` user persona files |
-| User Interface  |Streamlit  |
+| User Interface  |Streamlit   |
 | Future (optional) | `python-pptx` for visual persona |
 
 ---
