@@ -2,6 +2,8 @@
 
 This project is a Generative AI-powered Reddit User Persona Generator that analyzes a user's public Reddit activity - comments and posts to generate a rich, human-like persona. It leverages Large Language Models (LLMs) via **Groq** and is orchestrated using **LangChain**, providing deep behavioral insights, motivations, and personality traits based on natural language patterns.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jasoncobra3/Reddit_Persona_Generator)
+
 ---
 
 ## 📌 Features
